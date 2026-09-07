@@ -1,4 +1,4 @@
-# odoo_demo_movies
+# odoo-demo-movies
 
 ![odoo_version](https://img.shields.io/badge/odoo-10.0-875A7B.svg)
 
